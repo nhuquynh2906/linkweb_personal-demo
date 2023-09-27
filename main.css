@@ -1,0 +1,27 @@
+.post-title{
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    color: aqua;
+}
+.post-time{
+    color: aquamarine;
+    text-transform: uppercase;
+}
+
+body {
+    padding: 20px;
+}
+.cards{
+    padding: 20px;
+}
+img.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+h1{
+    font-size: 100px;
+
+}
